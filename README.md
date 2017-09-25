@@ -2,6 +2,7 @@
 Proof of work currency to interact with Boxihash network and blockchain payment portal.
 Boxihash
 09.25.2018
+
 Specs:
 Unit of value name: BoxieHash
 Exchange Ticker: Boxi
